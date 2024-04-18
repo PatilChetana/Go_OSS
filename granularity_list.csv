@@ -1,0 +1,77 @@
+component_name;replacement_name;comment;source_url
+
+@angular/animations/browser;Angular;;https://github.com/angular/angular
+@angular/animations/browser/testing;Angular;;https://github.com/angular/angular
+@angular/animations;Angular;;https://github.com/angular/angular
+@angular/bazel;Angular;;https://github.com/angular/angular
+@angular/benchpress;Angular;;https://github.com/angular/angular
+@angular/common;Angular;;https://github.com/angular/angular
+@angular/common/http;Angular;;https://github.com/angular/angular
+@angular/common/http/testing;Angular;;https://github.com/angular/angular
+@angular/common/testing;Angular;;https://github.com/angular/angular
+@angular/common/upgrade;Angular;;https://github.com/angular/angular
+@angular/compiler;Angular;;https://github.com/angular/angular
+@angular/compiler/testing;Angular;;https://github.com/angular/angular
+@angular/compiler-cli;Angular;;https://github.com/angular/angular
+@angular/core;Angular;;https://github.com/angular/angular
+@angular/core/testing;Angular;;https://github.com/angular/angular
+@angular/elements;Angular;;https://github.com/angular/angular
+@angular/forms;Angular;;https://github.com/angular/angular
+@angular/http;Angular;;https://github.com/angular/angular
+@angular/language-service;Angular;;https://github.com/angular/angular
+@angular/localize/init;Angular;;https://github.com/angular/angular
+@angular/localize;Angular;;https://github.com/angular/angular
+@angular/platform-browser/animations;Angular;;https://github.com/angular/angular
+@angular/platform-browser;Angular;;https://github.com/angular/angular
+@angular/platform-browser/testing;Angular;;https://github.com/angular/angular
+@angular/platform-browser-dynamic;Angular;;https://github.com/angular/angular
+@angular/platform-browser-dynamic/testing;Angular;;https://github.com/angular/angular
+@angular/platform-server;Angular;;https://github.com/angular/angular
+@angular/platform-server/testing;Angular;;https://github.com/angular/angular
+@angular/router;Angular;;https://github.com/angular/angular
+@angular/router/testing;Angular;;https://github.com/angular/angular
+@angular/router/upgrade;Angular;;https://github.com/angular/angular
+@angular/service-worker/config;Angular;;https://github.com/angular/angular
+@angular/service-worker;Angular;;https://github.com/angular/angular
+@angular/upgrade;Angular;;https://github.com/angular/angular
+@angular/upgrade/static;Angular;;https://github.com/angular/angular
+@angular/upgrade/static/testing;Angular;;https://github.com/angular/angular
+@angular-devkit/schematics;Angular;;https://github.com/angular/angular
+@ngtools/webpack;Angular;;https://github.com/angular/angular
+@angular-devkit/build-angular;Angular;;https://github.com/angular/angular
+@schematics/angular;Angular;;https://github.com/angular/angular
+@angular-devkit/core;Angular;;https://github.com/angular/angular
+
+golang.org/x/crypto;golang.org/x;;
+golang.org/x/net;golang.org/x;;
+golang.org/x/sys;golang.org/x;;
+golang.org/x/text;golang.org/x;;
+github.com/valyala/bytebufferpool;github.com/valyala;;
+github.com/valyala/fasthttp;github.com/valyala;;
+
+tomcat-dbcp;Apache Tomcat;;
+tomcat-embed-core;Apache Tomcat;;
+tomcat-embed-el;Apache Tomcat;;
+tomcat-embed-jasper;Apache Tomcat;;
+tomcat-embed-websocket;Apache Tomcat;;
+annotations-api;Apache Tomcat;;
+catalina;Apache Tomcat;;
+catalina-ant;Apache Tomcat;;
+catalina-ha;Apache Tomcat;;
+catalina-storeconfig;Apache Tomcat;;
+catalina-tribes;Apache Tomcat;;
+ecj-4.13;Apache Tomcat;;
+el-api.;Apache Tomcat;;
+jasper;Apache Tomcat;;
+jasper-el;Apache Tomcat;;
+jsp-api;Apache Tomcat;;
+servlet-api;Apache Tomcat;;
+tomcat-api;Apache Tomcat;;
+tomcat-coyote;Apache Tomcat;;
+tomcat-dbcp;Apache Tomcat;;
+tomcat-i18n*;Apache Tomcat;multiple files;
+tomcat-jdbc;Apache Tomcat;;
+tomcat-jni;Apache Tomcat;;
+tomcat-util;Apache Tomcat;;
+tomcat-websocket;Apache Tomcat;;
+
